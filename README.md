@@ -11,9 +11,10 @@ paranoid and added a memcached that gets updated every so often.
 
 ## Setup
 
-Updated LDAP connect info and search base
-
-Put adavatar.php into /etc/cron.hourly
-Put avatar.example.com.conf into your Apache httpd config, adjust accodingly
-Put avatar.php in the DocumentRoot you specified in your VirtualHost
+1. Updated LDAP connect info and search base
+2. Put adavatar.php into /etc/cron.hourly
+3. Put avatar.example.com.conf into your Apache httpd config, adjust accodingly
+4. Put avatar.php in the DocumentRoot you specified in your VirtualHost
+5. ?
+6. Profit
 
